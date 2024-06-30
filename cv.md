@@ -10,7 +10,7 @@
 ---
 
 ## Objective
-Aspiring to become a proficient Frontend Engineer with a deep understanding of how things work under the hood. Committed to gaining fundamental knowledge and achieving high standards in the field of frontend development.
+I am a passionate and dedicated frontend engineer with a strong foundation in web technologies. My goal is to continuously expand my knowledge and expertise in frontend development. With a deep commitment to understanding the intricacies of the technologies I work with, I strive to deliver high-quality, efficient solutions. I am always eager to learn, driven by a desire to achieve excellence and become an expert in my field.
 
 ---
 
